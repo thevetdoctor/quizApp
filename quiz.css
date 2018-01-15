@@ -1,0 +1,47 @@
+body {
+	background-color: #234;
+	/*width: 100%;*/
+	/*font-size: 1.2em;*/
+}
+
+#grid {
+	margin: 0 10%;
+	background-color: #fff;
+	text-align: center;
+	border: solid 2px #000;
+	border-radius: 25px; 
+	width: 80%;
+}
+
+#question {
+	font-size: 25px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+hr {
+	margin-bottom: 30px;
+	margin-top: 40px;
+}
+
+button {
+	color: #fff;
+	font-size: 20px;
+}
+
+#btn0, #btn1, #btn2, #btn3, #btn4 {
+	background-color: #234;
+	border-radius: 25px;
+	border : solid 1px #000;
+	margin: 10px;
+	width: 80%;
+}
+
+#btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover, #btn4:hover {
+	cursor: pointer;
+	background-color: #ff3;
+}
+
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus, #btn4:focus {
+outline: 0;
+}
