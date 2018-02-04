@@ -3,7 +3,7 @@ body {
 	/*background-color: #234;*/
 	/*width: 100%;*/
 	height: 100%;
-	font-size: 0.6em;
+	font-size: 1em;
 	font-family: georgia, sans-serif;
 }
 
@@ -43,7 +43,7 @@ button {
 
 #btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover, #btn4:hover {
 	cursor: pointer;
-	background-color: #ff3;
+/* 	background-color: #ff3; */
 }
 
 #btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus, #btn4:focus {
